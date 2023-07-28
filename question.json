@@ -1,8 +1,7 @@
-
 {
   "category": "Deportes",
   "question": "¿Qué año debuto Lionel Messi?",
-  "options": [2003, 2005, 2004],
-  "answer": 2,
+  "options" : [2002, 2004, 2001],
+  "answer"  : 1,
   "explanation": "Messi debuto con el primer equipo de Barcelona en Octubre del 2004."
 }
