@@ -1,48 +1,7 @@
-[
 {
   "category": "Deportes",
   "question": "¿Qué año debuto Lionel Messi?",
   "options" : [2004, 2002, 2001],
   "answer"  : 0,
   "explanation": "Messi debuto con el primer equipo de Barcelona en Octubre del 2004."
-},
-  {
-  "category" : "Juegos",
-  "question" : "¿Que año gano Team Liquid el The Internacional?",
-  "options"  : [2015,2017,2022],
-  "answer"   : 1,
-  "explanation" : "Team Liquid gana el mundial de Dota 2 en el 2017 tras vencer 3 a 0 al equipo chino Newbee."
-  },
-
-  {
-  "category" : "Programacion",
-  "question" : "¿Cual es un lenguaje de Tipado fuerte?",
-  "options"  : ["Java", "Javascript", "Css"],
-  "answer"   : 0,
-  "explanation" : "Java es un lenguaje de tipado fuerte porque tenemos que poner el tipo de dato que se usara."
-  },
-
-  {
-  "category" : "Cultura General",
-  "question" : "¿Cuándo se festeja fiestas patrias en Perú?",
-  "options"  : ["20 de julio", "28 de agosto", "28 de julio"],
-  "answer"   : 2,
-  "explanation" : "En Perú se festeja el 28 de julio fiestas patrias por el motivo de la independencia del Perú."
-  },
-
-  {
-  "category" : "Matematicas",
-  "question" : "¿Cuanto es 20 + 10 + 60 - 30?",
-  "options"  : [80, 90, 100],
-  "answer"   : 1,
-  "explanation" : "El resultado de estas operaciones saldria 90."
-  },
-
-  {
-  "category" : "Arte",
-  "question" : "¿En que año pinto la monolisa leonardo da vinci?",
-  "options"  : [1505, 1502, 1503],
-  "answer"   : 2,
-  "explanation" : "Leonardo da Vinci pinto la monolisa en el año 1503."
-  }
-]
+}
