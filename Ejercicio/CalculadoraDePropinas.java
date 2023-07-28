@@ -18,6 +18,6 @@ public class CalculadoraDePropinas {
 
     double montoPropina = totalCuenta * (propina / 100);
 
-    System.out.println("Monto de la propina es : " + montoPropina);
+    System.out.println("Monto de la propina es: " + montoPropina);
   }
 }
