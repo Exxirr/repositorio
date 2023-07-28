@@ -13,6 +13,5 @@ public class BuscadorPaises {
     String pais = entrada.nextLine();
 
     System.out.println("https://www.google.com/maps/search/" + pais);
-
   }
 }
