@@ -20,8 +20,5 @@ public class AdivinarNumeros {
     }else{
       System.out.println("Para la proxima");
     }
-
-
-
   }
 }
