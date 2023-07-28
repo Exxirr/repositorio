@@ -8,7 +8,7 @@
 },
   {
   "category" : "Juegos",
-  "question" : "¿Que año gano Team Liquid el The Internacional?"
+  "question" : "¿Que año gano Team Liquid el The Internacional?",
   "options"  : [2015,2017,2022],
   "answer"   : 1,
   "explanation" : "Team Liquid gana el mundial de Dota 2 en el 2017 tras vencer 3 a 0 al equipo chino Newbee."
