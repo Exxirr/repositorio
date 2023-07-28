@@ -18,7 +18,9 @@ public class AdivinarNumeros {
     if(adivina == numero){
       System.out.println("Lo lograste");
     }else{
-      System.out.println("Para la proxima");
+      System.out.println("Para la proxima ");
     }
+
+
   }
 }
