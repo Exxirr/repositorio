@@ -8,7 +8,8 @@ public class Mostrar5Numeros {
     int[] numeros = new int[5];
     ingresarNumeros(numeros);
     mostrarNumeros(numeros);
-
+    numeroMayor(numeros);
+    numeroMenor(numeros);
   }
 
 
@@ -37,5 +38,30 @@ public class Mostrar5Numeros {
     for (int numero : numeros) {
       System.out.println(numero);
     }
+
   }
+
+  public static void numeroMayor(int[] numeros){
+      int mayor = 0;
+    for (int numero : numeros) {
+      if (numero > mayor) {
+        mayor = numero;
+      }
+    }
+    System.out.println("Numero mayor es : " + mayor);
+  }
+
+
+  public static void numeroMenor(int[] numeros){
+    int menor = numeros[0];
+
+    for (int numero : numeros)
+      if (numero < menor) {
+        menor = numero;
+      }
+    System.out.println("Numero menor es : " + menor);
+
+  }
+
+
 }
